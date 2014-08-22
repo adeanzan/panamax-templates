@@ -1,5 +1,5 @@
 ---
-name: configuring_complex_apps_adeanzan
+name: "Configuring Complex Apps" 
 description: "An example of using a dedicated container to provide a wizard-style
   interface to update configuration in multiple other containers.\r\n\r\nThis provides
   an alternative to using environment variables for a complex application or one where
