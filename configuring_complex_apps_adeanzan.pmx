@@ -22,6 +22,8 @@ documentation: |-
 
   For example: `VBoxManage controlvm panamax-vm natpf1 zancfgexample,tcp,,9080,,9080`
 
+  If you experience issues with containers not starting or you see an error like `Error response from daemon: No such container: zanco_pmx-config-proxy`, try restarting with `$ panamax restart`. If that doesn't resolve the problem, you can also try the "Rebuild App" button.
+
   ### Post-run Instructions
 
   To access the application go to: http://localhost:9080/
